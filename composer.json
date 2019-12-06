@@ -1,0 +1,15 @@
+{
+    "name": "deceitya/update-info",
+    "description": "アプデ情報更新",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "deceitya",
+            "email": "49361292+deceitya@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "flowy/core": "^3.1",
+        "j4mie/idiorm": "^1.5"
+    }
+}
