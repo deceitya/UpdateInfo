@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "flowy/core",
-            "version": "v3.1.1",
+            "version": "v3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FlowyProject/FlowyCore.git",
-                "reference": "8406b0cac6badf49ee22f742280810eb1788348c"
+                "reference": "756f2ac44b00de37d436d2e13e5181f3f98757a6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FlowyProject/FlowyCore/zipball/8406b0cac6badf49ee22f742280810eb1788348c",
-                "reference": "8406b0cac6badf49ee22f742280810eb1788348c",
+                "url": "https://api.github.com/repos/FlowyProject/FlowyCore/zipball/756f2ac44b00de37d436d2e13e5181f3f98757a6",
+                "reference": "756f2ac44b00de37d436d2e13e5181f3f98757a6",
                 "shasum": ""
             },
             "require": {
@@ -38,7 +38,7 @@
                 "LGPL-2.1"
             ],
             "description": "Coroutine for event handler, PocketMine-MP",
-            "time": "2019-12-06T14:26:14+00:00"
+            "time": "2019-12-07T03:15:24+00:00"
         },
         {
             "name": "j4mie/idiorm",
